@@ -56,6 +56,7 @@ The project uses Haar Cascade Classifiers, a machine learning–based approach w
 * Successfully detects human faces in real-time
 * Accurately detects eyes within facial regions
 * Works efficiently under good lighting conditions
+  
  ⚠️ Limitations
 
 * Performance decreases in low-light conditions
